@@ -1,1 +1,3 @@
-# Authentication-in-vue
+npm install
+npm run serve
+npm built
